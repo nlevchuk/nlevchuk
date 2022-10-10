@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Software Engineer and I am experienced in Javascript, Ruby, Clojure, React.
+
+I am passionate about programming and learning new things.
+
 <!--
 **nlevchuk/nlevchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
