@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am a Full Stack Software Developer with experience in Javascript(+++), Ruby(+++), Clojure(+) and React(++).
 
